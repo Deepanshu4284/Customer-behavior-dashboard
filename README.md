@@ -35,7 +35,7 @@ This project analyzes a dataset of 3,900+ customers to uncover purchasing patter
 - **DAX** — Custom KPI calculations
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Dashboard-1.png)
 
 ## 📂 Dataset Features
 - Customer demographics (Age Group, Gender)
